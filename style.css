@@ -135,11 +135,73 @@ body{
     left: 150px;
     gap: 20px;
     opacity: 1;
+}
 
-}
 .texting {
+    display: flex;
+    padding-top: 50px;
 }
+
 .text_writing {
+    display: flex;
 }
+
 .help {
+    display: flex;
+    padding-top: 50px;
+}
+
+.consultcards {
+    display: flex;
+    gap: 20px;
+}
+
+.consultcard {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+    width: 270px;
+    height: 180px;
+    margin: 0;
+    border: 1px solid rgba(47, 43, 67, 0.15);
+    border-radius: 20px;
+}
+
+.consultinfo {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #140A32;
+}
+
+.consultnumber {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    color: #140A32;
+    margin: 0px;
+}
+
+.consultserver {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #33836E;
+}
+
+.work {
+    width: 1140px;
+    height: 200px;
+    max-width: 1100px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
 }
