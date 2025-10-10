@@ -205,3 +205,50 @@ body{
     display: flex;
     align-items: center;
 }
+
+.help_opat {
+    margin-top: 50px;
+}
+.boxxx1 {
+    display: flex;
+    margin-top: 20px;
+    padding: 0px;
+    gap: 20px;
+}
+.boxxx1_help {
+}
+.text_pro_stasiu {
+    width: 390px;
+    height: 96px;
+    margin-top: 20px;
+    display: flex;
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 0.5px;
+    border-color: #e4e4e4;
+    padding: 30px;
+}
+.boxxx_1 {
+}
+.help_boxxx_1 {
+    margin-top: 50px;
+}
+.boxt_textssss {
+    width: 560px;
+    height: 104px;
+    display: flex;
+    border-top-left-radius: ;
+}
+.boxxx_1_1{
+}
+.tisaha {
+
+}
+.box100 {
+    color: #33836E;
+
+}
+.box100_1 {
+}
+.galery {
+}
